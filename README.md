@@ -17,6 +17,6 @@
 
 <p> <a href="https://en.wikipedia.org/wiki/Chicken">For More Information, Click Here!</a> </p>
 
-<img src="https://cdn.britannica.com/07/183407-050-C35648B5/Chicken.jpg" alt="Image of a Chicken">
+<img src="https://images.unsplash.com/photo-1588597989061-b60ad0eefdbf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80" alt="Image of a Chicken">
 
 </html>
