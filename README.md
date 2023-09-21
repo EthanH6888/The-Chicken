@@ -1,5 +1,5 @@
 # The-History-of-the-Chicken
-<!DOCTYPE html>
+
 <html>
 
 <head>
