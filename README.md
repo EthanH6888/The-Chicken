@@ -4,7 +4,7 @@
 <body>
   <p>
     <ol>
-      <li><a href="./History.html>History of the Chicken</a></li>
+      <li> <a href="./History.html"> History of the Chicken </a> </li>
     </ol>
   </p>
 </body>
