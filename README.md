@@ -9,9 +9,6 @@
     </ol>
     <img src="https://images.unsplash.com/photo-1578051696754-4652a8f67882?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1852&q=80" alt="Rooster Head" width=200 height=300>
     <img src="https://images.unsplash.com/photo-1615828277068-3897b6b58673?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80" alt="Baby Chicken in a Hand" width=300 height=200>
-
-  <style>  
-      #images {white-space: nowrap;}
-  </style>
+    <img src="https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80" alt="Fried Chicken" width=300 height=200>
 </body>
 </html>
