@@ -1,4 +1,3 @@
-# The Chicken
 <html>
 <body>
     <h1> What is a Chicken </h1>
