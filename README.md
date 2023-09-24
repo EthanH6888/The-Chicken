@@ -1,7 +1,7 @@
 <html>
     <head>
         <title> Main Menu </title>
-        <style> body {background:#ffcccb;} </style>
+        <style> body {background:#ffcccb;} h1 {color:yellow} </style>
     </head>
 <body>
     <h1> What is a Chicken </h1>
